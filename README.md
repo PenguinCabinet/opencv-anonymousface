@@ -10,7 +10,7 @@ By [首相官邸](https://www.kantei.go.jp/jp/100_kishida/meibo/seimukan.html)
 
 # Usage
 ```
-$ dot run test\20211006seimukan01.jpg test\masked.png
+$ dotnet run test\20211006seimukan01.jpg test\masked.png
 ```
 
 # Installation
