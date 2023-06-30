@@ -7,7 +7,8 @@ Public LICENSE
 
 # First
 
-[mattnさんのoracle-cloud-function-anonymousface](https://github.com/mattn/oracle-cloud-function-anonymousface)に影響を受けて作成しました。
+[mattnさんのoracle-cloud-function-anonymousface](https://github.com/mattn/oracle-cloud-function-anonymousface)に影響を受けて作成しました。   
+顔を自動検出し、アノニマスのお面をかぶせるツールです。
 
 # Usage
 ```
